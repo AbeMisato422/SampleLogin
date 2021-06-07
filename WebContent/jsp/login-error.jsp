@@ -6,7 +6,7 @@
 
 <form action="../Login.action" method="post">
 
-<p>ID<input type="text" name="id" value="<%=id %>"required><br>
+<p>ID<input type="text" name="id" value=""required><br>
 パスワード<input type="password" name="password" required></p>
 
 <p><input type="submit" value="ログイン"></p>
